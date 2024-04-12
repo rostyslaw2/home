@@ -20,3 +20,6 @@ users2.forEach(personId => {
 });
 
 console.log(registeredPersons);
+
+
+///////////////////////////
