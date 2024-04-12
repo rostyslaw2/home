@@ -1,0 +1,14 @@
+C:\Users\MSI\Desktop\programing\c#\змінні\змінні\bin\Debug\net8.0\змінні.exe
+C:\Users\MSI\Desktop\programing\c#\змінні\змінні\bin\Debug\net8.0\змінні.deps.json
+C:\Users\MSI\Desktop\programing\c#\змінні\змінні\bin\Debug\net8.0\змінні.runtimeconfig.json
+C:\Users\MSI\Desktop\programing\c#\змінні\змінні\bin\Debug\net8.0\змінні.dll
+C:\Users\MSI\Desktop\programing\c#\змінні\змінні\bin\Debug\net8.0\змінні.pdb
+C:\Users\MSI\Desktop\programing\c#\змінні\змінні\obj\Debug\net8.0\змінні.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\programing\c#\змінні\змінні\obj\Debug\net8.0\змінні.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\programing\c#\змінні\змінні\obj\Debug\net8.0\змінні.AssemblyInfo.cs
+C:\Users\MSI\Desktop\programing\c#\змінні\змінні\obj\Debug\net8.0\змінні.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\programing\c#\змінні\змінні\obj\Debug\net8.0\змінні.dll
+C:\Users\MSI\Desktop\programing\c#\змінні\змінні\obj\Debug\net8.0\refint\змінні.dll
+C:\Users\MSI\Desktop\programing\c#\змінні\змінні\obj\Debug\net8.0\змінні.pdb
+C:\Users\MSI\Desktop\programing\c#\змінні\змінні\obj\Debug\net8.0\змінні.genruntimeconfig.cache
+C:\Users\MSI\Desktop\programing\c#\змінні\змінні\obj\Debug\net8.0\ref\змінні.dll
